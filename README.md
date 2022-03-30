@@ -69,15 +69,6 @@
 	  Donde se le indica la funcion que quiere realizar y el valor
 	  
 	  ![](img/maquina2.PNG)
+    
 
-### Evidencias desde el localhost
-
-* Funcion Logaritmo Natural
-  
-  ![](img/local1.PNG)
-  
-* Funcion Logaritmo Natural
-  
-  ![](img/local2.PNG)
-  
 7. Link del video: https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videospti/EZg0BoduwT5PpCtXzVScTBsBkYTvqqIDFlxBEBbCuYNMbg?email=luis.benavides%40escuelaing.edu.co&e=NGswa9
