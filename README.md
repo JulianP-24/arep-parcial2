@@ -13,19 +13,19 @@
   
 * Corriendo Proxy
   
-  ![](img/corriendoServicios.png)
+  ![](img/corriendoServicios.PNG)
   
 * Funcion Logaritmo Natural
   
-  ![](img/local1.png)
+  ![](img/local1.PNG)
   
 * Funcion Logaritmo Natural
   
-  ![](img/local2.png)
+  ![](img/local2.PNG)
 
 * Creacion Instancias
 
-  ![](img/instancias.png)
+  ![](img/instancias.PNG)
 
 ### Instrucciones para el despliegue y evidencia del funcionamiento
 1. Primero se accede a la maquina por medio de ssh, utilizando la llave privada que esta subida en el repositorio
@@ -42,18 +42,18 @@
    Para correr el proxy
    ```java -cp "target/classes:target/dependency/*" edu.escuelaing.arep.proxy.App```
    
-   ![](img/proxy.png)
+   ![](img/proxy.PNG)
    
    Para correr los servicios de la calculadora
    ```java -cp "target/classes:target/dependency/*" edu.escuelaing.arep.sparkApp```
    
-   ![](img/servicio1.png)
+   ![](img/servicio1.PNG)
    
-   ![](img/servicio2.png)
+   ![](img/servicio2.PNG)
 
 5. En cada maquina se habilita el puerto 4567 en una regla de entrada, para que se pueda acceder a los servicios
 	
-   ![](img/puertosEnCadaMaquina.png)
+   ![](img/puertosEnCadaMaquina.PNG)
 
 6. Una vez habilitados los puertos y corriendo las tres maquinas ec2, accedemos a las maquinas virtuales, en donde
    se corren los servicios, las cuales son las siguientes:
@@ -62,22 +62,22 @@
 	
 	  Donde se le indica la funcion que quiere realizar y el valor
 	  
-	  ![](img/maquina1.png)
+	  ![](img/maquina1.PNG)
 	  
 	* http://ec2-54-84-139-108.compute-1.amazonaws.com:4567/exp?value=5.0
 	  
 	  Donde se le indica la funcion que quiere realizar y el valor
 	  
-	  ![](img/maquina2.png)
+	  ![](img/maquina2.PNG)
 
 ### Evidencias desde el localhost
 
 * Funcion Logaritmo Natural
   
-  ![](img/local1.png)
+  ![](img/local1.PNG)
   
 * Funcion Logaritmo Natural
   
-  ![](img/local2.png)
+  ![](img/local2.PNG)
   
 7. Link del video: https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videospti/EZg0BoduwT5PpCtXzVScTBsBkYTvqqIDFlxBEBbCuYNMbg?email=luis.benavides%40escuelaing.edu.co&e=NGswa9
