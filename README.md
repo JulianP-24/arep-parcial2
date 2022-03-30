@@ -9,7 +9,7 @@
 
 * Corriendo Proxy
   
-  ![](img/servidorProxy.png)
+  ![](img/servidorProx.PNG)
   
 * Corriendo Proxy
   
