@@ -9,23 +9,23 @@
 
 * Corriendo Proxy
   
-  ![]("img/servidorProxy.png")
+  ![](img/servidorProxy.png)
   
 * Corriendo Proxy
   
-  ![]("img/corriendoServicios.png")
+  ![](img/corriendoServicios.png)
   
 * Funcion Logaritmo Natural
   
-  ![]("img/local1.png")
+  ![](img/local1.png)
   
 * Funcion Logaritmo Natural
   
-  ![]("img/local2.png")
+  ![](img/local2.png)
 
 * Creacion Instancias
 
-  ![]("img/instancias.png")
+  ![](img/instancias.png)
 
 ### Instrucciones para el despliegue y evidencia del funcionamiento
 1. Primero se accede a la maquina por medio de ssh, utilizando la llave privada que esta subida en el repositorio
@@ -42,18 +42,18 @@
    Para correr el proxy
    ```java -cp "target/classes:target/dependency/*" edu.escuelaing.arep.proxy.App```
    
-   ![]("img/proxy.png")
+   ![](img/proxy.png)
    
    Para correr los servicios de la calculadora
    ```java -cp "target/classes:target/dependency/*" edu.escuelaing.arep.sparkApp```
    
-   ![]("img/servicio1.png")
+   ![](img/servicio1.png)
    
-   ![]("img/servicio2.png")
+   ![](img/servicio2.png)
 
 5. En cada maquina se habilita el puerto 4567 en una regla de entrada, para que se pueda acceder a los servicios
 	
-   ![]("img/puertosEnCadaMaquina.png")
+   ![](img/puertosEnCadaMaquina.png)
 
 6. Una vez habilitados los puertos y corriendo las tres maquinas ec2, accedemos a las maquinas virtuales, en donde
    se corren los servicios, las cuales son las siguientes:
@@ -62,20 +62,20 @@
 	
 	  Donde se le indica la funcion que quiere realizar y el valor
 	  
-	  ![]("img/maquina1.png")
+	  ![](img/maquina1.png)
 	  
 	* http://ec2-54-84-139-108.compute-1.amazonaws.com:4567/exp?value=5.0
 	  
 	  Donde se le indica la funcion que quiere realizar y el valor
 	  
-	  ![]("img/maquina2.png")
+	  ![](img/maquina2.png)
 
 ### Evidencias desde el localhost
 
 * Funcion Logaritmo Natural
   
-  ![]("img/local1.png")
+  ![](img/local1.png)
   
 * Funcion Logaritmo Natural
   
-  ![]("img/local2.png")
+  ![](img/local2.png)
