@@ -19,8 +19,8 @@ public class App {
     public static void main( String[] args )
     {
         semaforo=true;
-        urls.add("http://ec2-34-203-225-83.compute-1.amazonaws.com:4567/");
-        urls.add("http://ec2-54-84-139-108.compute-1.amazonaws.com:4567/");
+        urls.add("http://http://ec2-34-203-225-83.compute-1.amazonaws.com:4567/");
+        urls.add("http://http://ec2-54-84-139-108.compute-1.amazonaws.com:4567/");
         port(getPort());
 
         get("/exp","application/json",(req,res)->{
