@@ -11,7 +11,7 @@
   
   ![](img/servidorProx.PNG)
   
-* Corriendo Proxy
+* Corriendo Servicios Calculadora
   
   ![](img/corriendoServicios.PNG)
   
