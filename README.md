@@ -79,3 +79,5 @@
 * Funcion Logaritmo Natural
   
   ![](img/local2.png)
+  
+7. Link del video: https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videospti/EZg0BoduwT5PpCtXzVScTBsBkYTvqqIDFlxBEBbCuYNMbg?email=luis.benavides%40escuelaing.edu.co&e=NGswa9
