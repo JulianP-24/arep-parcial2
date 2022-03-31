@@ -71,4 +71,7 @@
 	  ![](img/maquina2.PNG)
     
 
-7. Link del video: https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videospti/EZg0BoduwT5PpCtXzVScTBsBkYTvqqIDFlxBEBbCuYNMbg?email=luis.benavides%40escuelaing.edu.co&e=NGswa9
+7. Link del video original: https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videospti/EZg0BoduwT5PpCtXzVScTBsBkYTvqqIDFlxBEBbCuYNMbg?email=luis.benavides%40escuelaing.edu.co&e=NGswa9
+8. Link video editado: https://www.youtube.com/watch?v=SC1tJ1scIxw
+
+De igual forma se subira el archivo del video tambien.
